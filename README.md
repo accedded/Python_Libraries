@@ -35,3 +35,5 @@ Alex: _Sourceduty can expand the Python libraries, including mathplotlib and mor
 [matplotlib Dev](https://chatgpt.com/g/g-6792a880058081918536193e16651423-matplotlib-dev)
 <br>
 [Sourceduty PyPi](https://pypi.org/user/sourceduty/)
+<br>
+[The Python Standard Library](https://docs.python.org/3/library/index.html)
